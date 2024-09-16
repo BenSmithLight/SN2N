@@ -1,1 +1,3 @@
 *.pyc
+examples/denoising2D/data/datasets/*
+.history/*
