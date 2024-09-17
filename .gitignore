@@ -1,3 +1,7 @@
 *.pyc
-examples/denoising2D/data/datasets/*
 .history/*
+# 忽略任何datasets文件夹下的文件
+**/datasets/*
+# 忽略任何models文件夹下的文件
+**/models/*
+examples/denoising3D/data/*
